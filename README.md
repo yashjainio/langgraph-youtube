@@ -137,6 +137,11 @@ Your LangGraph environment is ready to build powerful AI apps 🚀
 - Orchestrating **multiple AI agents** within a single LangGraph system.
 - Building collaborative agent networks for complex, multi-step tasks.
 
+### **18. Agentic RAG in Graph**
+
+- Implementing **Retrieval-Augmented Generation (RAG) inside a LangGraph agent**.
+- Combining vector search, LLM reasoning, and graph state for intelligent document Q&A.
+
 ---
 
 # **📄 requirements.txt**
