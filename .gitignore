@@ -208,3 +208,6 @@ __marimo__/
 
 # Environments
 *env
+
+# pycache
+**/__pycache__
