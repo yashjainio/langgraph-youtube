@@ -1,4 +1,4 @@
-# **LangGraph Playlist**
+# **LangGraph Series**
 
 Welcome to the **LangGraph Playlist** repository!  
 This playlist is designed to help you understand LangGraph from the ground up — starting with basic graph concepts like nodes and edges, all the way to advanced topics like tool nodes, multi-agent systems, persistence, and human-in-the-loop workflows.  
