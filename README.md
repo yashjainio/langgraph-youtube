@@ -173,8 +173,8 @@ See the `LICENSE` file for details.
 
 # **📬 Stay Connected**
 
-- [YouTube Channel](https://www.youtube.com/@yashjaincodex)
-- [LinkedIn](https://www.linkedin.com/in/yashjaincodex)
+- [YouTube Channel](https://www.youtube.com/@yashjainio)
+- [LinkedIn](https://www.linkedin.com/in/yashjainio)
 
 ---
 
